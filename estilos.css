@@ -1,0 +1,19 @@
+
+.img-carrusel{
+    height: 85vh;
+    object-fit: cover;
+}
+.logo{
+    height: 25vh;
+    object-fit: covere;
+}
+.gal{
+    width: 56.9vh;
+    height: 85vh;
+    object-fit: cover;
+}
+.prod{
+    width: 56.9vh;
+    height: 85vh;
+    object-fit: cover;
+}
